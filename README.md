@@ -17,13 +17,13 @@ npm install
 npm run start
 ```
 
-## Run tests
+### Run tests
 
 ```sh
 npm run test
 ```
 
-## Run build
+### Run build
 
 ```sh
 npm run build
@@ -48,13 +48,13 @@ npm install
 npm run start
 ```
 
-## Run tests
+### Run tests
 
 ```sh
 npm run test
 ```
 
-## Run build
+### Run build
 
 ```sh
 npm run build
